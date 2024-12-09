@@ -1,0 +1,10 @@
+.cart {
+  padding-top: 100px;
+}
+.cart-info span {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+

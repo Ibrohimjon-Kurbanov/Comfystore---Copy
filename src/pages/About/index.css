@@ -1,0 +1,27 @@
+.about-info {
+  margin: 80px auto;
+  width: 635px;
+}
+.about-info h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  font-size: 60px;
+  color: #394e6a;
+  margin-bottom: 24px;
+}
+.about-info h1 span {
+  color: #dbe1ff;
+  font-size: 36px;
+  padding: 1.6rem 2.4rem;
+  background-color: #057aff;
+  border-radius: 15px;
+  letter-spacing: 1.2px;
+  display: inline-block;
+}
+.about-info p {
+  color: #394e6a;
+  line-height: 3.5rem;
+  font-size: 1.8rem;
+}
